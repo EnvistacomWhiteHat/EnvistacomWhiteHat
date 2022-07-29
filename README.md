@@ -2,7 +2,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EnvistacomWhiteHat)  
 
-![GitHub metrics](https://metrics.lecoq.io/pechjacob)  
+![GitHub metrics](https://metrics.lecoq.io/EnvistacomWhiteHat)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EnvistacomWhiteHat)  
 
